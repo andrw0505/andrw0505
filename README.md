@@ -46,7 +46,7 @@ My focus is on **impact creation**, not just modeling.
 ## 🏥 Lead Poisoning Issue in Lansing, MI for Lead Safe Lansing Program
 **Social Project | Exploratory Data Analysis with Statistical Inference**
 
-**Summary**:  Leveraging statistical models to understand ongoing lead poisoning issues in Lansing, MI. Prepare evidence-backed recommendations for relevant stakeholders to act upon. 
+**Summary**:  Leveraging statistical models to understand ongoing lead poisoning issues in Lansing, MI. Prepare evidence-backed recommendations for relevant stakeholders to act upon. Top 5 projects with the highest grade in class.
 
 🔗[Code & Report Repository](https://github.com/andrw0505/lead_safe_lansing26.git)
 <!--
