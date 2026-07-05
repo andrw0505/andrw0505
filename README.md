@@ -41,6 +41,14 @@ My focus is on **impact creation**, not just modeling.
 🔗[Live Dashboard 1](https://public.tableau.com/app/profile/andrew.nguyen2306/viz/market_analysis_17805848081540/Summary)
 
 🔗[Live Dashboard 2](https://public.tableau.com/app/profile/andrew.nguyen2306/viz/competitive_analysis_17805767494700/Summary)
+
+--- 
+## 🏥 Lead Poisoning Issue in Lansing, MI for Lead Safe Lansing Program
+**Social Project | Exploratory Data Analysis with Statistical Inference**
+
+**Summary**:  Leveraging statistical models to understand ongoing lead poisoning issues in Lansing, MI. Prepare evidence-backed recommendations for relevant stakeholders to act upon. 
+
+🔗[Code & Report Repository](https://github.com/andrw0505/lead_safe_lansing26.git)
 <!--
 **andrw0505/andrw0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
